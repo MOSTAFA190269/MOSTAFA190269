@@ -3,7 +3,7 @@
 # 👋 Hi, I'm Mostafa Eid
 
 ### Back-end Developer | C# & C++ Programmer | CIT Student
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=560&lines=Building+clean+back-end+systems;C%23+%7C+.NET+%7C+C%2B%2B;Solving+problems+one+line+at+a+time" alt="Typing SVG" /> <br>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace"  width="40%"/><br> 
 
 </div>
